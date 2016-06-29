@@ -15,5 +15,5 @@ galaxy_info:
   - monitoring
 
 dependencies:
-  - ANXS.perl
-  - ANXS.cron
+#  - ANXS.perl
+#  - ANXS.cron
